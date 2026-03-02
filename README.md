@@ -12,7 +12,7 @@ Projeto desenvolvido com Spring Boot para demonstrar:
 
 ##  Tecnologias Utilizadas
 
-- Java 17+
+- Java 21
 - Spring Boot
 - Spring Web
 - Spring Data JPA
